@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-[0xcosmo.com/)](https://www.0xcosmo.com/)
+[0xcosmo.com](https://www.0xcosmo.com/)
